@@ -1,0 +1,14 @@
+staff_details1={
+    "username":" "Sam Obi",
+    "password":" "samobi1234",
+    "email":" "samobi@gmail.com",
+    "fullname":" "Sam Obi",
+}
+
+staff_details2={
+    "username":" "Peter Obinna",
+    "password":" "peterobinna144",
+    "email":" "peterobinna@gmail.com",
+    "fullname":" "Peter Obinna",
+
+}
